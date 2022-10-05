@@ -6,6 +6,19 @@ __pycache__/
 # C extensions
 *.so
 
+temp/
+wandb/
+buffers/
+offline_buffer/
+bc_data/
+fqi/
+offline/
+models/
+offline_data/
+offline_fqi/
+random-network-distillation-pytorch/ckpt/
+
+
 # Distribution / packaging
 .Python
 build/

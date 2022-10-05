@@ -1,0 +1,49 @@
+cffi==1.14.5
+cmake==3.22.4
+Cython @ file:///tmp/build/80754af9/cython_1594831566883/work
+gym==0.23.1
+h5py==2.10.0
+HeapDict==1.0.1
+mpi4py==3.0.3
+numpy==1.22.3
+opencv-python==4.5.5.62
+pandas @ file:///tmp/build/80754af9/pandas_1602088120436/work
+pickleshare==0.7.5
+protobuf==3.14.0
+psutil @ file:///tmp/build/80754af9/psutil_1598370257551/work
+PuLP==2.6.0
+py @ file:///tmp/build/80754af9/py_1593446248552/work
+pyparsing==2.4.7
+pytest==0.0.0
+PyYAML==5.3.1
+pyzmq==22.0.3
+Rtree==0.9.4
+ruamel-yaml==0.15.87
+scikit-image==0.17.2
+scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1598376899566/work
+scipy==1.6.3
+simplegeneric==0.8.1
+sip==4.19.13
+six @ file:///tmp/build/80754af9/six_1605205327372/work
+sklearn==0.0
+slimevolleygym==0.1.0
+snowballstemmer==2.0.0
+sortedcollections==1.2.1
+sortedcontainers==2.2.2
+sympy @ file:///tmp/build/80754af9/sympy_1605119542615/work
+tables==3.6.1
+tensorboard==2.4.0
+tensorboard-plugin-wit==1.7.0
+terminado==0.9.5
+testpath==0.4.4
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+tifffile==2020.10.1
+tinyscaler==1.1.0
+torch==1.9.0+cu111
+torchaudio==0.9.0
+torchvision==0.10.0+cu111
+tornado==6.1
+tqdm @ file:///tmp/build/80754af9/tqdm_1602185206534/work
+traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
+typing==3.7.4.3
+typing-extensions==3.10.0.0
