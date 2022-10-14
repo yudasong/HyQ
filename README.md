@@ -1,5 +1,5 @@
 # Hy-Q
-This repository contains code for paper: Hybrid RL: Using both offline and online data can make RL efficient.
+This repository contains code for paper: [Hybrid RL: Using both offline and online data can make RL efficient](https://arxiv.org/abs/2210.06718). 
 
 ## Prerequisites
 Please see requirements.txt for required packages.
