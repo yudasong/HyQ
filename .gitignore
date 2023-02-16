@@ -13,7 +13,6 @@ offline_buffer/
 bc_data/
 fqi/
 offline/
-models/
 offline_data/
 offline_fqi/
 random-network-distillation-pytorch/ckpt/
@@ -128,7 +127,7 @@ venv.bak/
 .spyproject
 
 # Rope project settings
-.ropeproject
+.ropeprojectƒ
 
 # mkdocs documentation
 /site
